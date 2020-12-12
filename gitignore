@@ -364,3 +364,5 @@ FodyWeavers.xsd
 #additionally ignore the follwing files
 ProjectSettings.jason
 slnx.sqlite
+
+.vs/
